@@ -186,9 +186,10 @@ a {
 #svg {
   width: 100%;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   margin-top: 1rem;
+  padding:  0rem 9rem;
 }
 #sec-head {
   width: 35%;
